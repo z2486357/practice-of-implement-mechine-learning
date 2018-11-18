@@ -1,6 +1,6 @@
-# practice-of-svm
+# practice-of-implement-mechine-learning
 
-This is a simple record of the implement of scikit_learn svm. 
+This is a simple record of the implement of scikit_learn mechine learning. 
 
 The data is download from kaggle. It is a data about recognizing of handwriting.
 
